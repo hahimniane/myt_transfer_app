@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1078636096882",
+    "project_id": "money-17e28",
+    "storage_bucket": "money-17e28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078636096882:android:1d92ee57b59128a9bb01eb",
+        "android_client_info": {
+          "package_name": "com.transfer.money"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078636096882-9ehs49j289ujo73s7jdnq9ku9cjf68re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJmXV4blOXhBVpzeE1Q6Y3RSkAZdC-ayA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078636096882-9ehs49j289ujo73s7jdnq9ku9cjf68re.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1078636096882-t5vfkutqb97i3ekjri0odl9uvh8thc32.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hashimniane.money"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
